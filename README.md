@@ -1,2 +1,2 @@
 # python_basics
-Some basic python exercises
+Some very basic python and git exercises
