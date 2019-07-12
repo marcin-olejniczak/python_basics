@@ -1,0 +1,3 @@
+"""
+Każde zadanie było fajne ;)
+"""
